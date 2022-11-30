@@ -1,0 +1,6 @@
+﻿  hanshu.cpp
+C:\Users\12414\Desktop\vs\c++2022代码\base64\base64.c\hanshu.cpp(60,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\12414\Desktop\vs\c++2022代码\base64\base64.c\hanshu.cpp(122,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\12414\Desktop\vs\c++2022代码\base64\base64.c\hanshu.cpp(229,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\12414\Desktop\vs\c++2022代码\base64\base64.c\hanshu.cpp(288,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  base64.c.vcxproj -> C:\Users\12414\Desktop\vs\c++2022代码\base64\x64\Debug\base64.c.exe
